@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "molymod-prototype",
+    "molymod-dms",
+    "molymod-raqaba",
+]
