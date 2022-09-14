@@ -1,3 +1,5 @@
+`ct` ↔ 'component'
+
 `.schema`:
 ```sql
 CREATE TABLE msys_ct ('msys_name' text, id integer primary key);
