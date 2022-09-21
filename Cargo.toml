@@ -1,6 +1,8 @@
 [workspace]
+resolver = "2"
 members = [
     "molymod-prototype",
     "molymod-dms",
     "molymod-raqaba",
+    "molymod-selector",
 ]
